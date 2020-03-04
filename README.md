@@ -33,4 +33,8 @@
 			- Location(XY - Latitude and Longitude).
 			- Ship Count.
 			- Ship Size.
+
+	11. Create a platform independent application for all the functional aspects to converge.
+			
+			-Currently looking into electron.js
 		
