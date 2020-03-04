@@ -1,8 +1,7 @@
 # Size-Invariant-Ship-Detection-from-SAR-Images
 
-	*Processing geo tiff files in python:
-
-			 *Read and write geo tiff files.
+	* Processing geo tiff files in python:
+			* Read and write geo tiff files.
 		
 	*Remove Speckle noise using NDSAR filter.
 
