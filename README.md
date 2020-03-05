@@ -38,4 +38,3 @@
 			
 			-Currently looking into electron.js
 			
-	12. finish
